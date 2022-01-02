@@ -1,0 +1,19 @@
+﻿  Application.cpp
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(98,21): warning C4552: '-': result of expression not used
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(231,19): warning C4458: declaration of 'm' hides class member
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.h(92,12): message : see declaration of 'Application::m'
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(231,27): warning C4458: declaration of 'n' hides class member
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.h(92,20): message : see declaration of 'Application::n'
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(243,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(241,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(343,19): warning C4458: declaration of 'm' hides class member
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.h(92,12): message : see declaration of 'Application::m'
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(343,27): warning C4458: declaration of 'n' hides class member
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.h(92,20): message : see declaration of 'Application::n'
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(351,66): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(352,72): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(353,66): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(354,66): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(355,72): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(356,72): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+  DX11 Framework.vcxproj -> C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Debug\DX11 Framework.exe
