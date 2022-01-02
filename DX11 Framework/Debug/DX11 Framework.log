@@ -1,19 +1,50 @@
 ﻿  Application.cpp
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(98,21): warning C4552: '-': result of expression not used
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(231,19): warning C4458: declaration of 'm' hides class member
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.h(92,12): message : see declaration of 'Application::m'
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(231,27): warning C4458: declaration of 'n' hides class member
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.h(92,20): message : see declaration of 'Application::n'
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(243,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(241,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(343,19): warning C4458: declaration of 'm' hides class member
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.h(92,12): message : see declaration of 'Application::m'
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(343,27): warning C4458: declaration of 'n' hides class member
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.h(92,20): message : see declaration of 'Application::n'
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(351,66): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(352,72): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(353,66): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(354,66): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(355,72): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
-C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Application.cpp(356,72): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
-  DX11 Framework.vcxproj -> C:\Users\lcypw\Downloads\DX11 Framework 17 dec\DX11 Framework\Debug\DX11 Framework.exe
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(98,21): warning C4552: '-': result of expression not used
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(231,19): warning C4458: declaration of 'm' hides class member
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.h(92,12): message : see declaration of 'Application::m'
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(231,27): warning C4458: declaration of 'n' hides class member
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.h(92,20): message : see declaration of 'Application::n'
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(243,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(241,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(343,19): warning C4458: declaration of 'm' hides class member
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.h(92,12): message : see declaration of 'Application::m'
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(343,27): warning C4458: declaration of 'n' hides class member
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.h(92,20): message : see declaration of 'Application::n'
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(351,66): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(352,72): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(353,66): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(354,66): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(355,72): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Application.cpp(356,72): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+  Camera.cpp
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(9,124): warning C4100: '_farDepth': unreferenced formal parameter
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(9,106): warning C4100: '_nearDepth': unreferenced formal parameter
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(9,85): warning C4100: '_windowHeight': unreferenced formal parameter
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(9,65): warning C4100: '_windowWidth': unreferenced formal parameter
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(9,54): warning C4100: '_up': unreferenced formal parameter
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(9,40): warning C4100: '_at': unreferenced formal parameter
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(9,25): warning C4100: '_eye': unreferenced formal parameter
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(33,28): warning C4458: declaration of '_windowWidth' hides class member
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.h(19,8): message : see declaration of 'Camera::_windowWidth'
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(33,48): warning C4458: declaration of '_windowHeight' hides class member
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.h(20,8): message : see declaration of 'Camera::_windowHeight'
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(33,69): warning C4458: declaration of '_nearDepth' hides class member
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.h(21,8): message : see declaration of 'Camera::_nearDepth'
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(33,87): warning C4458: declaration of '_farDepth' hides class member
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.h(22,8): message : see declaration of 'Camera::_farDepth'
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(33,87): warning C4100: '_farDepth': unreferenced formal parameter
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(33,69): warning C4100: '_nearDepth': unreferenced formal parameter
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(33,48): warning C4100: '_windowHeight': unreferenced formal parameter
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Camera.cpp(33,28): warning C4100: '_windowWidth': unreferenced formal parameter
+  DDSTextureLoader.cpp
+  DX11 Framework.cpp
+  Matrix.cpp
+  OBJLoader.cpp
+  Vector3D.cpp
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Vector3D.cpp(97,50): warning C4239: nonstandard extension used: 'return': conversion from 'Vector3D' to 'Vector3D &'
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Vector3D.cpp(97,50): message : A non-const reference may only be bound to an lvalue
+  Generating Code...
+C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Vector3D.cpp(97): warning C4172: returning address of local variable or temporary
+  LINK : C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Debug\DX11 Framework.exe not found or not built by the last incremental link; performing full link
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DX11 Framework.vcxproj -> C:\Users\lcypw\OneDrive\Documents\University\Semester 2\FGAGSem1\DX11 Framework\Debug\DX11 Framework.exe
